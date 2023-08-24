@@ -1,0 +1,4 @@
+﻿  GLSLC: [FRAG] 'default.frag'
+  GLSLC: [VERT] 'default.vert'
+  GLSLC: [FRAG] 'shadowmap.frag'
+  GLSLC: [VERT] 'shadowmap.vert'

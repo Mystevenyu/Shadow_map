@@ -1,0 +1,6 @@
+﻿  baked_model.cpp
+  LoadMesh.cpp
+  main.cpp
+E:\HPGE\HighPerformanceGraphic\CW\CW4\cw4\cw4full\cw4\cw4\main.cpp(1227,81): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+E:\HPGE\HighPerformanceGraphic\CW\CW4\cw4\cw4full\cw4\cw4\main.cpp(1301,81): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  cw4.vcxproj -> E:\HPGE\HighPerformanceGraphic\CW\CW4\cw4\cw4full\cw4\bin\cw4-debug-x64-msc-v143.exe

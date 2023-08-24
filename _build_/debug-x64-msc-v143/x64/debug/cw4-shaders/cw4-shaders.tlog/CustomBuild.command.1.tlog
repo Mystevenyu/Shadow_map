@@ -1,0 +1,12 @@
+^E:\HPGE\HIGHPERFORMANCEGRAPHIC\CW\CW4\CW4\CW4FULL\CW4\CW4\SHADERS\DEFAULT.FRAG
+IF NOT EXIST "E:\HPGE\HighPerformanceGraphic\CW\CW4\cw4\cw4full\cw4\\assets\cw4\shaders" (mkdir "E:\HPGE\HighPerformanceGraphic\CW\CW4\cw4\cw4full\cw4\\assets\cw4\shaders")
+"E:\HPGE\HighPerformanceGraphic\CW\CW4\cw4\cw4full\cw4\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "E:\HPGE\HighPerformanceGraphic\CW\CW4\cw4\cw4full\cw4\/assets/cw4/shaders/default.frag.spv" "default.frag"
+^E:\HPGE\HIGHPERFORMANCEGRAPHIC\CW\CW4\CW4\CW4FULL\CW4\CW4\SHADERS\DEFAULT.VERT
+IF NOT EXIST "E:\HPGE\HighPerformanceGraphic\CW\CW4\cw4\cw4full\cw4\\assets\cw4\shaders" (mkdir "E:\HPGE\HighPerformanceGraphic\CW\CW4\cw4\cw4full\cw4\\assets\cw4\shaders")
+"E:\HPGE\HighPerformanceGraphic\CW\CW4\cw4\cw4full\cw4\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "E:\HPGE\HighPerformanceGraphic\CW\CW4\cw4\cw4full\cw4\/assets/cw4/shaders/default.vert.spv" "default.vert"
+^E:\HPGE\HIGHPERFORMANCEGRAPHIC\CW\CW4\CW4\CW4FULL\CW4\CW4\SHADERS\SHADOWMAP.FRAG
+IF NOT EXIST "E:\HPGE\HighPerformanceGraphic\CW\CW4\cw4\cw4full\cw4\\assets\cw4\shaders" (mkdir "E:\HPGE\HighPerformanceGraphic\CW\CW4\cw4\cw4full\cw4\\assets\cw4\shaders")
+"E:\HPGE\HighPerformanceGraphic\CW\CW4\cw4\cw4full\cw4\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "E:\HPGE\HighPerformanceGraphic\CW\CW4\cw4\cw4full\cw4\/assets/cw4/shaders/shadowmap.frag.spv" "shadowmap.frag"
+^E:\HPGE\HIGHPERFORMANCEGRAPHIC\CW\CW4\CW4\CW4FULL\CW4\CW4\SHADERS\SHADOWMAP.VERT
+IF NOT EXIST "E:\HPGE\HighPerformanceGraphic\CW\CW4\cw4\cw4full\cw4\\assets\cw4\shaders" (mkdir "E:\HPGE\HighPerformanceGraphic\CW\CW4\cw4\cw4full\cw4\\assets\cw4\shaders")
+"E:\HPGE\HighPerformanceGraphic\CW\CW4\cw4\cw4full\cw4\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "E:\HPGE\HighPerformanceGraphic\CW\CW4\cw4\cw4full\cw4\/assets/cw4/shaders/shadowmap.vert.spv" "shadowmap.vert"

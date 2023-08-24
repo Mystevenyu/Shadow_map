@@ -1,0 +1,13 @@
+﻿  allocator.cpp
+  context_helpers.cpp
+  error.cpp
+  to_string.cpp
+  vkbuffer.cpp
+  vkimage.cpp
+  vkobject.cpp
+  vkutil.cpp
+  vulkan_context.cpp
+  vulkan_window.cpp
+E:\HPGE\HighPerformanceGraphic\CW\CW4\cw4\cw4full\cw4\labutils\vulkan_window.cpp(134,7): warning C4551: 缺少参数列表的函数调用
+E:\HPGE\HighPerformanceGraphic\CW\CW4\cw4\cw4full\cw4\labutils\vulkan_window.cpp(567,54): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  labutils.vcxproj -> E:\HPGE\HighPerformanceGraphic\CW\CW4\cw4\cw4full\cw4\lib\labutils-debug-x64-msc-v143.lib
